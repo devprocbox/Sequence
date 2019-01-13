@@ -1,0 +1,9 @@
+C:\dev\Uklon\Net\Sequence\SequenceGenerator\bin\Debug\netstandard2.0\SequenceGenerator.deps.json
+C:\dev\Uklon\Net\Sequence\SequenceGenerator\bin\Debug\netstandard2.0\SequenceGenerator.dll
+C:\dev\Uklon\Net\Sequence\SequenceGenerator\bin\Debug\netstandard2.0\SequenceGenerator.pdb
+C:\dev\Uklon\Net\Sequence\SequenceGenerator\obj\Debug\netstandard2.0\SequenceGenerator.csprojAssemblyReference.cache
+C:\dev\Uklon\Net\Sequence\SequenceGenerator\obj\Debug\netstandard2.0\SequenceGenerator.csproj.CoreCompileInputs.cache
+C:\dev\Uklon\Net\Sequence\SequenceGenerator\obj\Debug\netstandard2.0\SequenceGenerator.AssemblyInfoInputs.cache
+C:\dev\Uklon\Net\Sequence\SequenceGenerator\obj\Debug\netstandard2.0\SequenceGenerator.AssemblyInfo.cs
+C:\dev\Uklon\Net\Sequence\SequenceGenerator\obj\Debug\netstandard2.0\SequenceGenerator.dll
+C:\dev\Uklon\Net\Sequence\SequenceGenerator\obj\Debug\netstandard2.0\SequenceGenerator.pdb
